@@ -1,0 +1,30 @@
+{
+  "name": "BookShelf",
+  "identifier": "io.github.themonty75.bookshelf.source",
+  "sourceURL": "https://raw.githubusercontent.com/TheMonty75/BookselfAPP-releases/main/sidestore.json",
+  "iconURL": "https://raw.githubusercontent.com/TheMonty75/BookselfAPP-releases/main/icon.png",
+  "apps": [
+    {
+      "name": "BookShelf",
+      "bundleIdentifier": "io.github.themonty75.bookshelf",
+      "developerName": "TheMonty75",
+      "subtitle": "Tu diario de lectura",
+      "localizedDescription": "Diario de lectura con amigos: apunta lo que lees, puntúa, reseña y sigue a otros lectores.",
+      "iconURL": "https://raw.githubusercontent.com/TheMonty75/BookselfAPP-releases/main/icon.png",
+      "tintColor": "#B8674C",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "0.1.32",
+          "buildVersion": "33",
+          "date": "2026-11-06",
+          "localizedDescription": "Primera versión para iPhone",
+          "downloadURL": "https://github.com/TheMonty75/BookselfAPP-releases/releases/download/ios-v0.1.32/BookShelf-0.1.32.ipa",
+          "size": 22478715,
+          "minOSVersion": "15.5"
+        }
+      ]
+    }
+  ],
+  "news": []
+}

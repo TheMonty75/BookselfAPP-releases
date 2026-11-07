@@ -15,6 +15,15 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "0.1.37",
+          "buildVersion": "38",
+          "date": "2026-11-07",
+          "localizedDescription": "Versión para iPhone",
+          "downloadURL": "https://github.com/TheMonty75/BookselfAPP-releases/releases/download/ios-v0.1.37/BookShelf-0.1.37.ipa",
+          "size": 23301145,
+          "minOSVersion": "15.5"
+        },
+        {
           "version": "0.1.36",
           "buildVersion": "37",
           "date": "2026-11-07",
